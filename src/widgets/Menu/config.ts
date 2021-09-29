@@ -53,12 +53,6 @@ export const links = [
     href: "#",
   },
   {
-    label: "HORA Gallery",
-    icon: "GalleryIcon",
-    att: "SOON",
-    href: "#",
-  },
-  {
     label: "Sport NFT",
     icon: "SpotIcon",
     href: "#",
@@ -88,7 +82,7 @@ export const links = [
     href: "#", 
   },
   {
-    label: "Contact",
+    label: "Binance",
     icon: "GroupsIcon",
     items: [ 
       {
